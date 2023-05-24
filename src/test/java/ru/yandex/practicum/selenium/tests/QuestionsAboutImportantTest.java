@@ -1,7 +1,7 @@
-package ru.yandex.practicum.selenium.Tests;
+package ru.yandex.practicum.selenium.tests;
 
 import org.junit.Test;
-import ru.yandex.practicum.selenium.Pages.MainPage;
+import ru.yandex.practicum.selenium.pages.MainPage;
 
 public class QuestionsAboutImportantTest extends BaseTest{
 

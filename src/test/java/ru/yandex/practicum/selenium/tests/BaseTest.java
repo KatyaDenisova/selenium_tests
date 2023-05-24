@@ -1,4 +1,4 @@
-package ru.yandex.practicum.selenium.Tests;
+package ru.yandex.practicum.selenium.tests;
 
 import org.junit.After;
 import org.junit.Before;

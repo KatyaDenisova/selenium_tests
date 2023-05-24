@@ -1,7 +1,7 @@
-package ru.yandex.practicum.selenium.Tests;
+package ru.yandex.practicum.selenium.tests;
 
 import org.junit.Test;
-import ru.yandex.practicum.selenium.Pages.*;
+import ru.yandex.practicum.selenium.pages.*;
 
 public class OrderSamokatTest extends BaseTest{
 
